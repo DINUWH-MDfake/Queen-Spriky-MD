@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || 'E38gkRIL#JizWUeZYGtqJm3qfiGE4-OseAsOKxESbPE2gbE6qvAs', // Enter Your Session ID
-    MONGODB: process.env.MONGODB || 'mongodb://mongo:aHCBTsUhzVIvadJNEBXYgzCePbwwkAhj@junction.proxy.rlwy.net:51068',// Enter Your MongoDB URL
+    SESSION_ID: process.env.SESSION_ID || 'CAcQRSgI#D6mJ1N3UYOV2eqUblOgforuRJ6LJYmA32lswP7psQZw', // Enter Your Session ID
+    MONGODB: process.env.MONGODB || 'mongodb://mongo:TcJLZkZMuoSQQOrjIbDZYeaqESHaFhCu@mongodb.railway.internal:27017',// Enter Your MongoDB URL
     OWNER_NUMBER: process.env.OWNER_NUMBER || '94720244981',    // Enter Your Owner Number
 };
